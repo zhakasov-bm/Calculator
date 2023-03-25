@@ -1,5 +1,12 @@
 # Calculator
-Calculator
+Calculator app built with swift.
+
+## Features
+
+* Addition, subtraction, multiplication, and division operations
+* Clear button to reset the input fields
+* Decimal point button for floating point calculations
+
 ## Tech Stack
 - UIKit
 - MVC
